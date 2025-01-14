@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rida</h1>
+<h1 align="center"> , I'm Rida</h1>
 <h3 align="center">A Beginner's Journey into Frontend Development</h3>
 
 - 🌱 I’m currently learning **XML,Json,Mysql, php**
