@@ -1,16 +1,8 @@
-<h1 align="center"> , Rida Zainab </h1>
-<h3 align="center">I am passionate about creating efficient and user-friendly web solutions and aspire to grow into a skilled software engineer.
+<h1 align="center"> Rida Zainab </h1>
+<h3 align="center">  I am a software engineering student currently in my second semester.
 
 </h3>
-
--  I am a software engineering student currently in my second semester. I have hands-on experience in:
-
-MS Office
-HTML, CSS, and JavaScript
-UX/UI Designing
-SEO, Bootstrap, and jQuery
-
-I have successfully completed assignments and developed a website as part of my coursework.
+-I have successfully completed assignments and developed a website as part of my coursework.
 
 In the upcoming semesters, I will be learning:
 
