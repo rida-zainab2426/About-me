@@ -1,13 +1,30 @@
-<h1 align="center"> , I'm Rida</h1>
-<h3 align="center">A Beginner's Journey into Frontend Development</h3>
+<h1 align="center"> , Rida Zainab </h1>
+<h3 align="center">I am passionate about creating efficient and user-friendly web solutions and aspire to grow into a skilled software engineer.
 
-- 🌱 I’m currently learning **XML,Json,Mysql, php**
+</h3>
+
+-  I am a software engineering student currently in my second semester. I have hands-on experience in:
+
+MS Office
+HTML, CSS, and JavaScript
+UX/UI Designing
+SEO, Bootstrap, and jQuery
+
+I have successfully completed assignments and developed a website as part of my coursework.
+
+In the upcoming semesters, I will be learning:
+
+GitHub and version control
+XML and JSON
+PHP and Laravel
+Advanced JavaScript
+- 
 
 - 👨‍💻 All of my projects are available at [https://github.com/rida-zainab2426](https://github.com/rida-zainab2426)
 
 - 📫 How to reach me **ridazainab09876@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="</h3>
 <p align="left">
 </p>
 
