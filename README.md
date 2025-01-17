@@ -6,7 +6,7 @@
 
 In the upcoming semesters, I will be learning:
 
-GitHub and version control
+GitHub 
 XML and JSON
 PHP and Laravel
 Advanced JavaScript
