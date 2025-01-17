@@ -1,5 +1,5 @@
 <h1 align="center"> Rida Zainab </h1>
-<h3 align="center">  I am a software engineering student currently in my second semester.
+<h3 align="center">  I am a software engineering student currently in second semester.
 
 </h3>
 -I have successfully completed assignments and developed a website as part of my coursework.
